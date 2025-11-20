@@ -188,8 +188,8 @@
 // program 21
 // var numbers=['1','2','3','4','5' ,'6','7','8' ,'9','10']
 
-// var newnumbers=numbers.slice(0,7)
-// console.log("numbers name" ,newnumbers )
+// var newnumbers=numbers.slice(7,10)
+// console.log("numbers name" ,newnumbers)
 // console.log("numbers name" ,numbers)
 
 // dought
